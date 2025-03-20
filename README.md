@@ -156,7 +156,7 @@ The **Gen AI Toolbox for Databases** simplifies the integration of AI tools with
 
 Below is a screenshot of the deployed app:
 
-![Deployed Toy Store Search App](deployed_screenshot.png)
+![Deployed Toy Store Search App](https://github.com/user-attachments/assets/a9abfd5d-4f6c-4fb0-a054-e10d0bd1c951)
 
 ## Features
 
