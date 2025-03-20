@@ -1,0 +1,9 @@
+# folders
+
+img/
+logs/
+
+# files
+
+*.txt
+*.log
